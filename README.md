@@ -77,6 +77,8 @@ D.	Artificial Neural Network (ANN): The ANN model showed limited predictive capa
 E.	Genetic Algorithm : The Genetic Algorithm yielded a model with a coefficient of determination (R-squared) of 0.590, indicating its ability to explain a substantial portion of the variance in the data. The Root Mean Squared Error (RMSE) was 4227.2922, reflecting the model's effectiveness in minimizing prediction errors. These results demonstrate the Genetic Algorithm's success in optimizing feature selection and model parameters to achieve competitive predictive performance.
 
 ![Picture6](https://github.com/Riya4983/Medical-Insurance-Premium-Prediction-and-Pricing-Analysis/assets/129305827/f61fce5c-3895-4661-b6f4-dc9a2a0ecb8c)
+![Picture7](https://github.com/Riya4983/Medical-Insurance-Premium-Prediction-and-Pricing-Analysis/assets/129305827/3e1c7361-9fe5-4270-8396-92ee706a321c)
+
 
  
  
