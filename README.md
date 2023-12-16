@@ -65,7 +65,8 @@ A.	Multiple Linear Regression : This model achieved a moderate R-squared value o
 ![Picture2](https://github.com/Riya4983/Medical-Insurance-Premium-Prediction-and-Pricing-Analysis/assets/129305827/0820059a-3688-4a13-a00b-a01ce406160e)
  
 B.	Boosted Regression Tree: Boosted Regression Tree Model achieved a strong coefficient of determination (R-squared) of 0.787, indicating its ability to explain a significant portion of the variance in the data. The Root Mean Squared Error (RMSE) of 2996.173 indicated good overall model fit. 
-<img width="302" alt="Picture3" src="https://github.com/Riya4983/Medical-Insurance-Premium-Prediction-and-Pricing-Analysis/assets/129305827/9f84eab4-fcea-4565-9ab4-02745f77553d">
+
+![Picture3](https://github.com/Riya4983/Medical-Insurance-Premium-Prediction-and-Pricing-Analysis/assets/129305827/9f84eab4-fcea-4565-9ab4-02745f77553d)
  
 C.	Random Forest Regression: The Random Forest model exhibited strong predictive performance with an R-squared of 0.823, highlighting its ability to capture complex relationships within the data. A low MAE of 1212.838 and Relative Absolute Error of 0.235 reflected its accuracy in prediction. The Relative Squared Error of 0.177 and RMSE of 2728.146 indicated excellent overall fit.
 ![Picture4](https://github.com/Riya4983/Medical-Insurance-Premium-Prediction-and-Pricing-Analysis/assets/129305827/89918a6f-b6d6-4fad-95bf-4758d526e246)
