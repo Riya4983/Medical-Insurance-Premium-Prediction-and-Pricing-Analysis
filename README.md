@@ -62,7 +62,7 @@ Tools used: Heuristic Lab 3.3
 **6.	Evaluation:** We critically evaluated all models' performance, analyzing key metrics R-squared and Root Mean Squared Error, to gauge their effectiveness in addressing the problem at hand. 
 
 A.	Multiple Linear Regression : This model achieved a moderate R-squared value of 0.699, explaining a substantial portion of the variance in the data. The Root Mean Squared Error of 3563.216 showed reasonable model fit.
-
+![Picture2](https://github.com/Riya4983/Medical-Insurance-Premium-Prediction-and-Pricing-Analysis/assets/129305827/0820059a-3688-4a13-a00b-a01ce406160e)
  
 B.	Boosted Regression Tree: Boosted Regression Tree Model achieved a strong coefficient of determination (R-squared) of 0.787, indicating its ability to explain a significant portion of the variance in the data. The Root Mean Squared Error (RMSE) of 2996.173 indicated good overall model fit. 
  
