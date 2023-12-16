@@ -27,6 +27,7 @@ The dataset was ready for direct use in the model building, training, and evalua
 
 A.	Correlation matrix using Seaborn library of Python :
 We analyzed correlations among variables using Python's Seaborn library to uncover data relationships
+![alt text](https://github.com/Riya4983/Medical-Insurance-Premium-Prediction-and-Pricing-Analysis/blob/[main/Picture1.png?raw=true)
  
 
 Visualization using Tableau (Tableau dashboard link) :
