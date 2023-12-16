@@ -72,6 +72,7 @@ C.	Random Forest Regression: The Random Forest model exhibited strong predictive
 ![Picture4](https://github.com/Riya4983/Medical-Insurance-Premium-Prediction-and-Pricing-Analysis/assets/129305827/89918a6f-b6d6-4fad-95bf-4758d526e246)
  
 D.	Artificial Neural Network (ANN): The ANN model showed limited predictive capability with a negative R-squared value (-1.7152e-4), implying that it performed no better than a horizontal line fit to the data. The MAE of 5158.784 and RMSE of 6491.348 indicated substantial prediction errors, while Relative Absolute Error and Relative Squared Error were both exceptionally high at 1.0002. 
+![Picture5](https://github.com/Riya4983/Medical-Insurance-Premium-Prediction-and-Pricing-Analysis/assets/129305827/1e0579cb-743d-4bc2-a037-8ae2e1b6d26a)
  
 E.	Genetic Algorithm : The Genetic Algorithm yielded a model with a coefficient of determination (R-squared) of 0.590, indicating its ability to explain a substantial portion of the variance in the data. The Root Mean Squared Error (RMSE) was 4227.2922, reflecting the model's effectiveness in minimizing prediction errors. These results demonstrate the Genetic Algorithm's success in optimizing feature selection and model parameters to achieve competitive predictive performance.
  
